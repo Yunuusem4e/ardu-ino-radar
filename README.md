@@ -46,6 +46,6 @@ radyo dalgalarının yansıması yardımıyla uzaktaki nesneleri ve bu nesneleri
                       Tarih:21/05/2023
                            Saat:16.33
 
-
-
+https://www.tinkercad.com/things/8F03c3S1zdG-arduino-radar-projesi
+projeyi gerçekleştiren: yunus emre ortakaya 2098 10/B
 
